@@ -1,8 +1,11 @@
 import React from 'react'
+import { AppContext } from './context/contextApi'
 
 const App = () => {
   return (
-    <div className='text-center'>App</div>
+    <AppContext>
+      <div className='text-center text-green-800'>App</div>
+    </AppContext>
   )
 }
 
