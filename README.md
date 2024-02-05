@@ -16,8 +16,9 @@ This project is a clone of YouTube built using React.js. It utilizes the RapidAP
 
 ## Screenshots
 
-![Main Page](screenshots/Screenshot1.png)
-![Main Page](screenshots/Screenshot2.png)
+![Home Page](screenshots/Screenshot1.png)
+![Video Page](screenshots/Screenshot4.png)
+![Responsive Page](screenshots/Screenshot2.png)
 ![Main Page](screenshots/Screenshot3.png)
 
 
